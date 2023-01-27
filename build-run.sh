@@ -1,0 +1,1 @@
+dotnet run --project src/RemoveUnnecessaryUsing/RemoveUnnecessaryUsing.csproj example/MySolution.sln
